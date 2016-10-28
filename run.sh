@@ -1,5 +1,5 @@
 #!/bin/bash          
-echo "Compiling programs.." 
+echo "Compiling program.." 
 
 #################################################
 # Compile
